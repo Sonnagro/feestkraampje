@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "/feest-fun-web-02",
+  base: "/feestkraampje/",
   plugins: [
     react(),
   ],
